@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 650">
+<rect width="800" height="650" fill="#fffaf7"/><rect x="90" y="80" width="620" height="480" rx="18" fill="#fff" stroke="#efdad7" stroke-width="8"/>
+<rect x="115" y="105" width="570" height="430" fill="#fff" stroke="#e66c6e" stroke-width="18"/>
+<path d="M115 105h570v75H115zM115 460h570v75H115z" fill="#f7a1a2"/>
+<path d="M160 180h480M160 455h480" stroke="#d85b60" stroke-width="8" stroke-dasharray="22 18"/>
+<text x="400" y="625" text-anchor="middle" font-family="Georgia" font-size="32" fill="#a84c52">Red-White Border Saree • Demo</text></svg>

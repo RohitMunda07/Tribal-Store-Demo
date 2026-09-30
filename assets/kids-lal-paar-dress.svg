@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 650">
+<rect width="800" height="650" rx="28" fill="#fffaf7"/>
+<ellipse cx="400" cy="560" rx="245" ry="24" fill="#eadbd8"/>
+<!-- stylised childwear product illustration -->
+<circle cx="400" cy="125" r="58" fill="#f1c8a8"/>
+<path d="M345 112q55-78 110 0v24H345z" fill="#4b3529"/>
+<path d="M310 220 Q400 175 490 220 L560 505 Q400 555 240 505z" fill="#fff" stroke="#e56f70" stroke-width="12"/>
+<path d="M330 210h140v90H330z" fill="#f7a1a1"/>
+<path d="M270 300 Q400 345 530 300" fill="none" stroke="#b94e55" stroke-width="16"/>
+<path d="M255 395 Q400 440 545 395" fill="none" stroke="#e56f70" stroke-width="12"/>
+<path d="M285 470 Q400 510 515 470" fill="none" stroke="#d5a24c" stroke-width="8"/>
+<path d="M325 215l-65 95M475 215l65 95" stroke="#e56f70" stroke-width="16" stroke-linecap="round"/>
+<rect x="250" y="565" width="300" height="38" rx="19" fill="#fff" stroke="#eadbd8"/>
+<text x="400" y="590" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" font-weight="700" fill="#b94e55">Kids Heritage Dress</text>
+<text x="400" y="625" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" fill="#746968">Soft red-and-white celebration wear</text>
+</svg>

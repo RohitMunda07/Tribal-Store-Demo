@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 650">
+<rect width="800" height="650" rx="28" fill="#fffaf7"/>
+<ellipse cx="400" cy="470" rx="275" ry="72" fill="#eadbd8"/>
+<ellipse cx="400" cy="420" rx="255" ry="82" fill="#fff" stroke="#e56f70" stroke-width="12"/>
+<path d="M205 395 Q230 185 400 145 Q570 185 595 395z" fill="#f7eee7" stroke="#b94e55" stroke-width="12"/>
+<path d="M230 325 Q400 360 570 325" fill="none" stroke="#e56f70" stroke-width="22"/>
+<path d="M250 280 Q400 315 550 280" fill="none" stroke="#d5a24c" stroke-width="9"/>
+<path d="M330 190q70-65 140 0" fill="none" stroke="#58714b" stroke-width="12"/>
+<text x="400" y="555" text-anchor="middle" font-family="Arial,sans-serif" font-size="23" font-weight="800" fill="#b94e55">Woven Sat Hat</text>
+<text x="400" y="590" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#746968">Original demo product artwork</text>
+</svg>

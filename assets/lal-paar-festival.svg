@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 650">
+<rect width="800" height="650" fill="#fff9f7"/><path d="M110 100h580v450H110z" fill="#fff" stroke="#f1d5d5" stroke-width="8"/>
+<path d="M135 125h530v400H135z" fill="#fff" stroke="#e56c6f" stroke-width="22"/>
+<path d="M135 125h530v58H135zM135 467h530v58H135z" fill="#f7a5a6"/>
+<g fill="none" stroke="#e56c6f" stroke-width="7"><path d="M180 210l35 25-35 25-35-25zM280 210l35 25-35 25-35-25zM380 210l35 25-35 25-35-25zM480 210l35 25-35 25-35-25zM580 210l35 25-35 25-35-25z"/><path d="M180 320l35 25-35 25-35-25zM280 320l35 25-35 25-35-25zM380 320l35 25-35 25-35-25zM480 320l35 25-35 25-35-25zM580 320l35 25-35 25-35-25z"/></g>
+<text x="400" y="600" text-anchor="middle" font-family="Georgia" font-size="32" fill="#a84c52">Festival Lal Paar • Demo</text></svg>

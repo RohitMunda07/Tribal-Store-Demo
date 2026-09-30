@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 650">
+<rect width="800" height="650" fill="#fffaf6"/><path d="M90 90h620v470H90z" fill="#fff" stroke="#f3d9d7" stroke-width="8"/>
+<path d="M120 120h560v410H120z" fill="#fff" stroke="#e96f70" stroke-width="26"/>
+<path d="M120 120h560v70H120zM120 460h560v70H120z" fill="#f7a1a1"/>
+<path d="M180 120v410M620 120v410" stroke="#df6264" stroke-width="10" opacity=".65"/>
+<path d="M205 205h390M205 250h390M205 295h390M205 340h390M205 385h390" stroke="#f2b1b1" stroke-width="6"/>
+<text x="400" y="600" text-anchor="middle" font-family="Georgia" font-size="32" fill="#a84c52">Lal Paar • Handloom Demo</text></svg>

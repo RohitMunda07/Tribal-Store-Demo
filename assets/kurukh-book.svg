@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 650">
+<rect width="800" height="650" rx="28" fill="#fffaf7"/>
+<rect x="55" y="45" width="690" height="560" rx="22" fill="#fff" stroke="#e56f70" stroke-width="8"/>
+<rect x="55" y="45" width="690" height="125" rx="22" fill="#f7a1a1"/>
+<circle cx="650" cy="105" r="42" fill="#fff" opacity=".85"/>
+<path d="M650 76l10 22 24 3-18 16 5 24-21-12-21 12 5-24-18-16 24-3z" fill="#b94e55"/>
+<text x="95" y="112" font-family="Georgia,serif" font-size="46" font-weight="700" fill="#6e2f35">KURUKH</text>
+<text x="95" y="151" font-family="Arial,sans-serif" font-size="19" font-weight="700" letter-spacing="4" fill="#58714b">BASIC</text>
+<rect x="95" y="205" width="610" height="245" rx="18" fill="#fff0ef"/>
+<path d="M145 385 Q215 275 285 385 T425 385 T565 385 T655 385" fill="none" stroke="#e56f70" stroke-width="10"/>
+<path d="M145 410 Q215 300 285 410 T425 410 T565 410 T655 410" fill="none" stroke="#d5a24c" stroke-width="7"/>
+<circle cx="215" cy="300" r="28" fill="#fff" stroke="#b94e55" stroke-width="7"/>
+<path d="M215 276v48M191 300h48" stroke="#b94e55" stroke-width="6"/>
+<text x="400" y="505" text-anchor="middle" font-family="Arial,sans-serif" font-size="24" font-weight="700" fill="#b94e55">LANGUAGE GUIDE</text>
+<text x="400" y="542" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" fill="#746968">Simple vocabulary for beginners</text>
+<text x="400" y="578" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="2" fill="#58714b">Learning • Heritage • Community</text>
+</svg>
